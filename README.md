@@ -19,7 +19,7 @@ Auswahl des COM-Ports kann die Verbindung zur angeschlossenen Steuerung
 hergestellt oder getrennt werden. Ein klar strukturiertes Bedienfeld
 ermöglicht das Aktivieren und Deaktivieren der Messdatenübertragung.
 
-**\[Hauptmerkmale:]{.mark}**
+**\[Hauptmerkmale:]**
 
 * Echtzeit-Visualisierung des Silo-Füllstands(Sensor)
 * Prozentanzeige und farbliche Pegeldarstellung(Balken)
