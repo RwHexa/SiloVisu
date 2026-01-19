@@ -37,5 +37,5 @@ Auch zur Anzeige von Tanks, Zisternen usw... verwendbar.
 
 Es können auch Schaltungen von Visu zur Steuerung(ESP32)vorgenommen werden.
 
-Fussball-Turnier-Manager: ftmanager.de
+Fussball-Turnier-Manager: ftmanager.de andere Entwicklung...
 
